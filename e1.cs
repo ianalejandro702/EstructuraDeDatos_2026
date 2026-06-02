@@ -1,6 +1,6 @@
 using System;
 
-// definimos la estructura para encapsular los datos del poligono
+// Definimos la estructura para encapsular los datos del polígono
 struct Poligono {
     public int NumeroLados;
     public double MedidaLado;
