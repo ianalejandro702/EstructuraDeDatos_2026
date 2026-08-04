@@ -53,16 +53,3 @@ degradación a O(n²).
   (estilo Introsort); un adversario construido específicamente contra la
   mediana de tres podría todavía provocar el peor caso O(n²).
 
-### Uso de IA
-
-- **Herramienta utilizada:** [COMPLETAR: ej. Claude (Anthropic)]
-- **Problema consultado:** [COMPLETAR: ej. estrategia de pivote para evitar
-  degradación O(n²) y umbral adecuado para el corte a InsertionSort]
-- **Qué sugirió la IA:** [COMPLETAR: resume en 2-3 oraciones lo que se propuso]
-- **Qué decidí y por qué:** [COMPLETAR: qué adoptaste, qué cambiaste, y por qué]
-
-### Flujo Git
-
-- Rama de trabajo: `[COMPLETAR: nombre exacto de tu rama, ej. feature/fase2-quicksort]`
-- Pull Request: `[COMPLETAR: link a tu PR en GitHub]`
-- Autor: `[COMPLETAR: tu nombre]`
